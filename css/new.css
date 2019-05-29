@@ -1,19 +1,9 @@
-body > header nav {
-  display: block;
-  text-align: right;
-  width: 100%;
-  height: 28px;
-  background-color:  black;
-  border-bottom: 2px solid black;
-}
 
 body > header > nav ul li {
   display: inline;
   padding-right: 25px;
-  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "red", sans-serif;
-  color:red;
-  text-color:red;
-
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+  color:#B0C4DE;
 }
 article{
   margin-left: 7%;
@@ -31,17 +21,14 @@ margin-right: 150px;
 }
 
 .title1{
-  font-size: 40px;
+  background-color: #010009
 }
 .titleG{
-  background-color:
+  background-color: #010009
 }
 
 .Georgia1change{
   background-color: #ff3333;
-  text-align: center;
-font-size:
 
 
 }
-.
