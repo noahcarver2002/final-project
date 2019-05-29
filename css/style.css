@@ -40,8 +40,14 @@ margin-right: 150px;
 .Georgia1change{
   background-color: #ff3333;
   text-align: center;
-font-size:
+font-size:x;
+
 
 
 }
-.
+.logo{
+  width: 30%;
+  height: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
