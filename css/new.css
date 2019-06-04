@@ -8,7 +8,7 @@ body > header > nav ul li {
 article{
   margin-left: 7%;
 margin-right: 7%;
-  background-color:  lightblue;
+  background-color:  grey;
 }
 header{
   margin-left: 100px;
@@ -29,6 +29,7 @@ margin-right: 150px;
 
 .Georgia1change{
   background-color: #ff3333;
-
-
+}
+.aNav{
+  color:white;
 }

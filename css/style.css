@@ -1,20 +1,28 @@
 body > header nav {
-  display: block;
-  text-align: right;
-  width: 100%;
-  height: 28px;
-  background-color:  black;
-  border-bottom: 2px solid black;
+	display: block;
+	text-align: right;
+	width: 100%;
+	height: 28px;
+	background-color: lightblue;
+	border-bottom: 2px solid lightblue;
 }
 
 body > header > nav ul li {
-  display: inline;
-  padding-right: 25px;
-  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "red", sans-serif;
-  color:red;
-  text-color:red;
-
+	display: inline;
+	padding-right: 25px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	color: #black;
 }
+.aNav{
+  color: black;
+}
+
+body > header > nav ul li a {
+	color: #black;
+	text-decoration: none;
+	letter-spacing: 0.25em;
+}
+
 article{
   margin-left: 7%;
 margin-right: 7%;
@@ -41,6 +49,7 @@ margin-right: 150px;
   background-color: #ff3333;
   text-align: center;
 font-size:x;
+table-layout: auto;
 
 
 
@@ -50,4 +59,29 @@ font-size:x;
   height: 25%;
   margin-left: auto;
   margin-right: auto;
+	float: right;
+}
+.table1{
+width:40%;
+margin-left:15%;
+	margin-right:15%;
+}
+.web1{
+	background-color: lightblue;
+}
+.pic4{
+	height: 300px;
+   width: 300px;
+
+}
+.laker1{
+	background-color:   gold;
+}
+header >.aNav1{
+	background-color:	#552583
+}
+
+header >.aNav2{
+	background-color:	red;
+}
 }
